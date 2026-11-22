@@ -23,5 +23,5 @@ Windows 直接双击 `启动生日.bat`（脚本会自动找同目录的 .py，�
 | 点击火苗 | 吹灭（吹灭会冒烟）           |
 
 ## 效果截图
-（1）/preview.png
-（2）/intro.png
+（1）(preview.png)
+（2）(intro.png)
