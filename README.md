@@ -21,3 +21,14 @@ Windows 直接双击 `启动生日.bat`（脚本会自动找同目录的 .py，�
 | 按住拖动 | 旋转 3D 视角            |
 | 单击空白处 | 星屑爆开                |
 | 点击火苗 | 吹灭（吹灭会冒烟）           |
+
+
+## 效果截图
+
+开场「祝你生日快乐」：
+
+<img src="https://cdn.jsdelivr.net/gh/DLXH-item/python-HappyBirthday@main/intro.png" width="760">
+
+蛋糕场景（奶油水果双层蛋糕 + 四角悬浮气球 + 立体蝴蝶/爱心/蝴蝶结）：
+
+<img src="https://cdn.jsdelivr.net/gh/DLXH-item/python-HappyBirthday@main/preview.png" width="760">
