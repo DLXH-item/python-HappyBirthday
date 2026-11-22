@@ -29,6 +29,6 @@ Windows 直接双击 `启动生日.bat`（脚本会自动找同目录的 .py，�
 
 <img src="https://cdn.jsdelivr.net/gh/DLXH-item/python-HappyBirthday@main/intro.png" width="760">
 
-蛋糕场景（奶油水果双层蛋糕 + 四角悬浮气球 + 立体蝴蝶/爱心/蝴蝶结）：
+蛋糕场景：
 
 <img src="https://cdn.jsdelivr.net/gh/DLXH-item/python-HappyBirthday@main/preview.png" width="760">
