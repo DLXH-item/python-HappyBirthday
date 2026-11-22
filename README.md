@@ -11,7 +11,7 @@ pip install pygame
 python 生日星空.py
 ```
 
-Windows 直接双击 `启动生日.bat`（脚本会自动找同目录的 .py，不怕中文文件名）。
+Windows 直接双击  `启动生日.bat` （脚本会自动找同目录的 .py，不怕中文文件名）。
 
 ## 操作
 
